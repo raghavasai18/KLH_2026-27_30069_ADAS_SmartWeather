@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+models/*.pth
+*.pt
+data/**
+!data/.gitkeep
+outputs/**
+!outputs/.gitkeep
+
+venv/
+__pycache__/
+*.pyc
+.env
